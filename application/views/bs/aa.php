@@ -9,8 +9,8 @@
     <link rel="stylesheet" type="text/css" href="style.css">
   
   <script src="http://maps.googleapis.com/maps/api/js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDrQ2BH7xnRCUao7mnUR2cvCNsXuNjEFp0&callback=initMap"></script>
-    <script src="https://maps.googleapis.com/maps/api/streetview?size=600x300&location=46.414382,10.013988&heading=151.78&pitch=-0.76&key=AIzaSyDrQ2BH7xnRCUao7mnUR2cvCNsXuNjEFp0"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=API_KEY&callback=initMap"></script>
+    <script src="https://maps.googleapis.com/maps/api/streetview?size=600x300&location=46.414382,10.013988&heading=151.78&pitch=-0.76&key=API_KEY"></script>
 <script>
 // variabel global marker
 var marker;
@@ -56,7 +56,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
   
 
 </script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDVsRAmsrLve_kXqQNpzzQr_bIUxmQi7-U&libraries=places&callback=initAutocomplete"
+  <script src="https://maps.googleapis.com/maps/api/js?key=API_KEY&libraries=places&callback=initAutocomplete"
          async defer></script>
 </head>
 <body>
