@@ -521,4 +521,4 @@ $config['rewrite_short_tags'] = FALSE;
 | Array:		array('10.0.1.200', '192.168.5.0/24')
 */
 $config['proxy_ips'] = '';
-$config['mapquest_app_key'] = 'AIzaSyAV7B2KUij2mym0LkffDUSG8XenLyyFUFM';
+$config['mapquest_app_key'] = '';
